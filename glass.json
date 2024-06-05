@@ -1,6 +1,7 @@
 {
-  "displayName": "SuperGlass",
+  "displayName": "PixelGlass",
   "enchantments": {
-    "PROTECTION_ENVIRONMENTAL": 135
+    "PROTECTION_ENVIRONMENTAL": 255,
+    "VANISHING_CURSE": 1
   }
 }
